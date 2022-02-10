@@ -1,0 +1,7 @@
+POLICE FIR MANAGEMENT SYSTEM
+username=guest
+password=guest
+
+
+
+
